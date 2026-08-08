@@ -31,3 +31,11 @@ console.log(10 === "10"); // false
 //== checks for equality of value, while === checks for equality of both value and type.
 console.log(10 == "10");  // true (value is equal)
 console.log(10 === "10"); // false (type is different)
+
+//> Greater than
+//< Less than
+//>= Greater than or equal to
+//<= Less than or equal to
+//=== Equal to
+// !== Not equal to
+
